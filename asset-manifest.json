@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/azopus_front/static/css/main.636afa1d.css",
+    "main.js": "/azopus_front/static/js/main.9548988e.js",
+    "static/js/453.55d1d881.chunk.js": "/azopus_front/static/js/453.55d1d881.chunk.js",
+    "index.html": "/azopus_front/index.html",
+    "main.636afa1d.css.map": "/azopus_front/static/css/main.636afa1d.css.map",
+    "main.9548988e.js.map": "/azopus_front/static/js/main.9548988e.js.map",
+    "453.55d1d881.chunk.js.map": "/azopus_front/static/js/453.55d1d881.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636afa1d.css",
+    "static/js/main.9548988e.js"
+  ]
+}
